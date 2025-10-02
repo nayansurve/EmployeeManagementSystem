@@ -40,7 +40,7 @@ Click Here 👉 [Youtube Link](https://youtu.be/8Mv5mN37nJM)
 ## Note :
 This application is just a basic example of how to build an employee management system using Java Swing. You can modify and expand upon the code to add additional features and functionality as needed.
 
-## Author : Prathamesh Dhande
+## Author : Nayan Surve
 
 
 
