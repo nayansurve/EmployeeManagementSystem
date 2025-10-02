@@ -4,7 +4,7 @@
 ![Language](https://img.shields.io/badge/Language-Java-blue?logo=java&style=flat-square) &nbsp;
 ![GitHub](https://img.shields.io/github/license/Prathameshdhande22/Employee-Management-System?logo=github)
 
-This is a Java Swing application for managing employee information. This project was created using JDK 17 and Eclipse 2022-12.
+This is a Java Swing application for managing employee information. This project was created using This project was created using JDK 17 and Visual Studio Code.
 
 It has the following functionalities:
 
