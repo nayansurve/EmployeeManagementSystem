@@ -33,9 +33,7 @@ The application consists of the following classes:
 3. Build and run the project run `window.java` file.
 4. The application will open in a new window. Follow the prompts to add, delete, update, or display employees.
 
-# Demo :
-Demo Of this Project is Uploaded on Youtube. <br/>
-Click Here 👉 [Youtube Link](https://youtu.be/8Mv5mN37nJM)
+
 
 ## Note :
 This application is just a basic example of how to build an employee management system using Java Swing. You can modify and expand upon the code to add additional features and functionality as needed.
